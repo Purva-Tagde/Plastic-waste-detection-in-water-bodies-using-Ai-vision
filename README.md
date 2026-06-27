@@ -73,7 +73,7 @@ Plastic-Waste-Detection/
 └── README.md
 
 🚀 Installation
-git clone https://github.com/your-username/Plastic-Waste-Detection.git
+git clone https://github.com/Purva-Tagde/Plastic-Waste-Detection.git
 
 cd Plastic-Waste-Detection
 
